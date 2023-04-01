@@ -1,7 +1,7 @@
 // TODO
 // https://www.youtube.com/watch?v=vBXyJWwNN-I
 // Работа с GitHub
-
+// Паралельная ветвь
 const  form =document.querySelector('#form')
 const taskInput = document.querySelector('#taskInput')
 const tasksList = document.querySelector('#tasksList')
