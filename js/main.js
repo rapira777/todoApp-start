@@ -1,6 +1,6 @@
 // TODO
 // https://www.youtube.com/watch?v=vBXyJWwNN-I
-
+// Работа с GitHub
 
 const  form =document.querySelector('#form')
 const taskInput = document.querySelector('#taskInput')
